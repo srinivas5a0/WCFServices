@@ -1,0 +1,30 @@
+﻿Installing assembly 'D:\workshop\windows service\HelloSeervice\Host\bin\Debug\Host.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\workshop\windows service\HelloSeervice\Host\bin\Debug\Host.InstallLog
+   assemblypath = D:\workshop\windows service\HelloSeervice\Host\bin\Debug\Host.exe
+   logtoconsole = 
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\workshop\windows service\HelloSeervice\Host\bin\Debug\Host.exe assembly.
+Committing assembly 'D:\workshop\windows service\HelloSeervice\Host\bin\Debug\Host.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\workshop\windows service\HelloSeervice\Host\bin\Debug\Host.InstallLog
+   assemblypath = D:\workshop\windows service\HelloSeervice\Host\bin\Debug\Host.exe
+   logtoconsole = 
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\workshop\windows service\HelloSeervice\Host\bin\Debug\Host.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'D:\workshop\windows service\HelloSeervice\Host\bin\Debug\Host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\workshop\windows service\HelloSeervice\Host\bin\Debug\Host.exe
+   logfile = D:\workshop\windows service\HelloSeervice\Host\bin\Debug\Host.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\workshop\windows service\HelloSeervice\Host\bin\Debug\Host.exe assembly.
+Committing assembly 'D:\workshop\windows service\HelloSeervice\Host\bin\Debug\Host.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\workshop\windows service\HelloSeervice\Host\bin\Debug\Host.exe
+   logfile = D:\workshop\windows service\HelloSeervice\Host\bin\Debug\Host.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\workshop\windows service\HelloSeervice\Host\bin\Debug\Host.exe assembly.
+Remove InstallState file because there are no installers.

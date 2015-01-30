@@ -1,0 +1,8 @@
+D:\workshop\windows service\WindowsClient\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+D:\workshop\windows service\WindowsClient\ConsoleClient\bin\Debug\ConsoleClient.exe
+D:\workshop\windows service\WindowsClient\ConsoleClient\bin\Debug\ConsoleClient.pdb
+D:\workshop\windows service\WindowsClient\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+D:\workshop\windows service\WindowsClient\ConsoleClient\obj\Debug\ConsoleClient.exe
+D:\workshop\windows service\WindowsClient\ConsoleClient\obj\Debug\ConsoleClient.pdb
+D:\workshop\windows service\WindowsClient\ConsoleClient\bin\Debug\HelloSeervice.dll
+D:\workshop\windows service\WindowsClient\ConsoleClient\bin\Debug\HelloSeervice.pdb

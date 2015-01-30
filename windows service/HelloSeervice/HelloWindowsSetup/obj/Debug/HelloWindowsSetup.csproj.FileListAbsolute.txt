@@ -1,0 +1,13 @@
+D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloWindowsSetup.exe.config
+D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloWindowsSetup.exe
+D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloWindowsSetup.pdb
+D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloSeervice.dll
+D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\Host.exe
+D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloSeervice.pdb
+D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\Host.pdb
+D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\obj\Debug\HelloWindowsSetup.csprojResolveAssemblyReference.cache
+D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\obj\Debug\HelloWindowsSetup.HelloService.resources
+D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\obj\Debug\HelloWindowsSetup.ProjectInstaller.resources
+D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\obj\Debug\HelloWindowsSetup.csproj.GenerateResource.Cache
+D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\obj\Debug\HelloWindowsSetup.exe
+D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\obj\Debug\HelloWindowsSetup.pdb

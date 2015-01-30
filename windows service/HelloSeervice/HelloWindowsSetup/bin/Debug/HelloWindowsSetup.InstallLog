@@ -1,0 +1,62 @@
+﻿Installing assembly 'D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloWindowsSetup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloWindowsSetup.exe
+   logfile = D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloWindowsSetup.InstallLog
+Installing service HelloService...
+Service HelloService has been successfully installed.
+Creating EventLog source HelloService in log Application...
+Committing assembly 'D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloWindowsSetup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloWindowsSetup.exe
+   logfile = D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloWindowsSetup.InstallLog
+Uninstalling assembly 'D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloWindowsSetup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloWindowsSetup.exe
+   logfile = D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloWindowsSetup.InstallLog
+Removing EventLog source HelloService.
+Service HelloService is being removed from the system...
+Service HelloService was successfully removed from the system.
+Installing assembly 'D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloWindowsSetup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloWindowsSetup.exe
+   logfile = D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloWindowsSetup.InstallLog
+Installing service HelloService...
+Service HelloService has been successfully installed.
+Creating EventLog source HelloService in log Application...
+Committing assembly 'D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloWindowsSetup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloWindowsSetup.exe
+   logfile = D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloWindowsSetup.InstallLog
+Uninstalling assembly 'D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloWindowsSetup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloWindowsSetup.exe
+   logfile = D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloWindowsSetup.InstallLog
+Removing EventLog source HelloService.
+Service HelloService is being removed from the system...
+Service HelloService was successfully removed from the system.
+Attempt to stop service HelloService.
+Installing assembly 'D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloWindowsSetup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloWindowsSetup.exe
+   logfile = D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloWindowsSetup.InstallLog
+Installing service HelloService...
+Service HelloService has been successfully installed.
+Creating EventLog source HelloService in log Application...
+Committing assembly 'D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloWindowsSetup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloWindowsSetup.exe
+   logfile = D:\workshop\windows service\HelloSeervice\HelloWindowsSetup\bin\Debug\HelloWindowsSetup.InstallLog

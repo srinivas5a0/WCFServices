@@ -1,0 +1,9 @@
+D:\workshop\windows service\WindowsClient\WindowsClient\bin\Debug\WindowsClient.exe.config
+D:\workshop\windows service\WindowsClient\WindowsClient\bin\Debug\WindowsClient.exe
+D:\workshop\windows service\WindowsClient\WindowsClient\bin\Debug\WindowsClient.pdb
+D:\workshop\windows service\WindowsClient\WindowsClient\obj\Debug\WindowsClient.Form1.resources
+D:\workshop\windows service\WindowsClient\WindowsClient\obj\Debug\WindowsClient.Properties.Resources.resources
+D:\workshop\windows service\WindowsClient\WindowsClient\obj\Debug\WindowsClient.csproj.GenerateResource.Cache
+D:\workshop\windows service\WindowsClient\WindowsClient\obj\Debug\WindowsClient.exe
+D:\workshop\windows service\WindowsClient\WindowsClient\obj\Debug\WindowsClient.pdb
+D:\workshop\windows service\WindowsClient\WindowsClient\obj\Debug\WindowsClient.csprojResolveAssemblyReference.cache

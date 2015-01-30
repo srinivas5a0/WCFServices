@@ -1,0 +1,8 @@
+D:\workshop\windows service\HelloSeervice\Host\bin\Debug\Host.exe.config
+D:\workshop\windows service\HelloSeervice\Host\bin\Debug\Host.exe
+D:\workshop\windows service\HelloSeervice\Host\bin\Debug\Host.pdb
+D:\workshop\windows service\HelloSeervice\Host\bin\Debug\HelloSeervice.dll
+D:\workshop\windows service\HelloSeervice\Host\bin\Debug\HelloSeervice.pdb
+D:\workshop\windows service\HelloSeervice\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+D:\workshop\windows service\HelloSeervice\Host\obj\Debug\Host.exe
+D:\workshop\windows service\HelloSeervice\Host\obj\Debug\Host.pdb

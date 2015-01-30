@@ -1,0 +1,4 @@
+D:\workshop\windows service\HelloSeervice\HelloSeervice\bin\Debug\HelloSeervice.dll
+D:\workshop\windows service\HelloSeervice\HelloSeervice\bin\Debug\HelloSeervice.pdb
+D:\workshop\windows service\HelloSeervice\HelloSeervice\obj\Debug\HelloSeervice.dll
+D:\workshop\windows service\HelloSeervice\HelloSeervice\obj\Debug\HelloSeervice.pdb
